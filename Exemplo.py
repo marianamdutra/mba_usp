@@ -12,3 +12,5 @@ Created on Wed Dec  4 22:15:07 2024
 
 def sum_two_numbers(a,b):
     return a+b
+
+print(sum_two_numbers(34,45))
